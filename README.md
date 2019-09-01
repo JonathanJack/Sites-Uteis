@@ -16,3 +16,6 @@ https://www.favicon.cc/
 Emulador HTML,CSS,Javascript
 https://codepen.io/pen/
 
+Lista de fonts
+https://fonts.google.com/
+
