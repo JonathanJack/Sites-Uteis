@@ -25,3 +25,6 @@ https://codepen.io/pen/
 Lista de fonts
 https://fonts.google.com/
 
+Imagens Minimalistas
+https://storyset.com/
+
